@@ -9,7 +9,7 @@ This repository contains a complete end-to-end NLP stack built around Kannada-En
 
 ## Links
 
-- GitHub Repository: https://github.com/Shivansh-Shah/NLP_project
+- GitHub Repository: https://github.com/Nishanth-1729/Multilingual-Question-Answering-Translation-System.git
 - Model Checkpoints (Google Drive): https://drive.google.com/drive/folders/1DGeQDnoSRhhQB4cTV6hOzUlvYhXvDEQI?usp=sharing
 
 ## Project Structure
